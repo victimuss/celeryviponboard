@@ -31,7 +31,7 @@
 
 ### 1. Клонирование и зависимости
 ```bash
-git clone [https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПО.git](https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПО.git)
+git clone [https://github.com/victimuss/celeryviponboard.git](https://github.com/victimuss/celeryviponboard.git)
 cd НАЗВАНИЕ_РЕПО
 pip install -r requirements.txt
 ```
