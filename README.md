@@ -32,7 +32,7 @@
 ### 1. Клонирование и зависимости
 ```bash
 git clone [https://github.com/victimuss/celeryviponboard.git](https://github.com/victimuss/celeryviponboard.git)
-cd НАЗВАНИЕ_РЕПО
+cd celeryviponboard
 pip install -r requirements.txt
 ```
 ### 2. Настройка переменных
